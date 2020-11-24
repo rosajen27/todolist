@@ -13,7 +13,7 @@ A simple to do list web app that allows the user to add items on their to do lis
 
 ## Deployment
 
-Deployed Website: https://serene-hollows-43051.herokuapp.com/
+Deployed Website: https://rosa-todolist.herokuapp.com/
 
 ![demo.png](./public/imgs/demo.png)
 ![demo2.png](./public/imgs/demo2.png)
