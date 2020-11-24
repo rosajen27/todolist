@@ -27,6 +27,9 @@ Deployed Website: https://serene-hollows-43051.herokuapp.com/
 * Express
 * Node
 * EJS
+* MongoDB
+* Mongo Atlas
+* Heroku
 
 ## Authors
 
