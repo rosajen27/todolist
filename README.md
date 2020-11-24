@@ -1,6 +1,6 @@
 # ✏️ To Do List
 
-A simple to do list web app that allows user to add items on their to do list and cross them off when completed.
+A simple to do list web app that allows the user to add items on their to do list and cross them off when completed.
 
 
 ## Table of Contents
