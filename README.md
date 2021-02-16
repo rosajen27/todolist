@@ -1,6 +1,6 @@
 # ✏️ To Do List
 
-A simple to do list web app that allows the user to add items on their to do list and cross them off when completed.
+A simple to do list web app that allows the user to add items on their to do list and cross them off when completed. The user also has the ability to create multiple to-do lists such as /work /home.
 
 
 ## Table of Contents
@@ -13,7 +13,10 @@ A simple to do list web app that allows the user to add items on their to do lis
 
 ## Deployment
 
-Deployed Website: https://rosa-todolist.herokuapp.com/
+Demo: https://rosa-todolist.herokuapp.com/
+
+* Create additional to-do lists!
+* Try https://rosa-todolist.herokuapp.com/work
 
 ![demo.png](./public/imgs/demo.png)
 ![demo2.png](./public/imgs/demo2.png)
@@ -24,11 +27,9 @@ Deployed Website: https://rosa-todolist.herokuapp.com/
 * HTML
 * CSS
 * JavaScript
-* Express
-* Node
+* Node.js + Express
 * EJS
-* MongoDB
-* Mongo Atlas
+* MongoDB Atlas
 * Heroku
 
 ## Authors
@@ -43,7 +44,7 @@ Deployed Website: https://rosa-todolist.herokuapp.com/
 
 This project is licensed under the MIT License.
 
-Copyright (c) 2020 Jennifer Rosa
+Copyright (c) 2021 Jennifer Rosa
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
